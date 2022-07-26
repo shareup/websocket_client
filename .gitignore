@@ -1,3 +1,4 @@
+.vscode
 ebin/*
 deps/*
 *.beam
