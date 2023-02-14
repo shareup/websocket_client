@@ -6,7 +6,9 @@
   {applications, [
                   ssl,
                   crypto,
-                  inets
+                  inets,
+                  kernel,
+                  stdlib
                  ]},
   {env, []},
   {modules, []}
